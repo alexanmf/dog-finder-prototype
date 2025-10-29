@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Buddy",
+    "size": "m",
+    "kidFriendly": true,
+    "location": "Boston, MA",
+    "description": "Loves fetch, chill temperament, good with older kids."
+  },
+  {
+    "id": "2",
+    "name": "Luna",
+    "size": "s",
+    "kidFriendly": false,
+    "location": "Providence, RI",
+    "description": "Energetic, would do best in an adult home."
+  },
+  {
+    "id": "3",
+    "name": "Moose",
+    "size": "xl",
+    "kidFriendly": true,
+    "location": "Cambridge, MA",
+    "description": "Gentle giant, leash trained."
+  }
+]
